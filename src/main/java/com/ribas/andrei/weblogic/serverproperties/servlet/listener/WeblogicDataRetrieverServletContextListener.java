@@ -168,11 +168,8 @@ public class WeblogicDataRetrieverServletContextListener implements
 
 		for (String deniedAttributeName : NOT_ALLOWED_ATTRIBUTES) {
 			if (attributeName.equals(deniedAttributeName)) {
-
 				isAttributeAllowedToShow = false;
-
 				break;
-
 			}
 		}
 
