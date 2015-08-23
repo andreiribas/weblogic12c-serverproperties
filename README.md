@@ -20,4 +20,6 @@ mvn clean install
 Then just deploy the war into Weblogic 12c.
 
 The full explanation is in my blog:
+
+https://andreiribas.wordpress.com/2015/08/23/accessing-weblogic-12cs-runtime-properties-using-jmx/
  
